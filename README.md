@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ayush Verma
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning ReactJS
+- 💞️ I’m looking to collaborate on Web Development Projects
 - 📫 reach me at vayush2020@gmail.com
 
 <!---
